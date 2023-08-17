@@ -10,7 +10,7 @@
 ## How Run This Project 
 1. clone this repo
 2. composer update
-3. rename .env example 
+3. rename .env example and update databse credential 
 4. run php artisan migrate
 5. run  npm install
 6. run npm run dev
